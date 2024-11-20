@@ -1,45 +1,48 @@
-# 🎉 Welcome to My GitHub Profile!  
+### Hi, I'm **Andrea**, an AI Enthusiast and Master's Student in **Computer Engineering** at Università Politecnica delle Marche 👨‍💻  
 
-### Hi there! I'm **Andrea Visi**, a Master's Degree Student in **Computer Engineering** 👨‍💻  
-I am passionate about crafting innovative solutions in **Recommender Systems**, **Machine Learning**, and advanced computational tools. My GitHub is a hub for my latest projects, ideas, and collaborations.  
+I have a strong passion for **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a deep interest in **Mathematics**, **Logic**, and **Cybersecurity**. Currently, I am working in the field of **Sport Analysis**, collaborating with top-tier Italian and international sports organizations. My approach is to start from theory and then apply the acquired knowledge effectively in practice.  
 
 ---
 
 ## 🌟 About Me  
 - 🎓 **Education**: Master's in Computer Engineering  
-- 💻 **Current Focus**: Developing advanced projects using **MATLAB**  
-- 🚀 **Interests**: Data Analysis, Artificial Intelligence, and Digital Literacy  
-- 📬 **Contact Me**: [andrea.email@example.com](mailto:andrea.email@example.com)  
+- 🚀 **Interests**: AI, Machine Learning, Sport Analysis, and Data Science  
+- 🏅 **Current Work**: Building data-driven insights for sports performance (coming soon)  
+- 📬 **Contact**: [andrea.email@example.com](mailto:andrea.email@example.com)  
 
 ---
 
-## 🛠️ Technologies & Tools  
-Here’s a glimpse of my tech stack:  
-- **Programming Languages**:  
+## 🛠️ My Expertise  
+- **Core Interests**:  
+  - 🤖 Artificial Intelligence & Machine Learning  
+  - 📊 Deep Learning Applications  
+  - 🔐 Cybersecurity and Mathematical Modeling  
+
+- **Programming Skills**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
 
-- **Tools**:  
+- **Tools & Platforms**:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-  ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)  
+  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+  ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
 
 ---
 
 ## 🚧 Current Projects  
-- **[AdvancedV2](https://github.com/VisiAndrea/AdvancedV2)**:  
-  A MATLAB application for advanced data processing and analysis.  
+- **[Sport Analysis Toolkit](https://github.com/VisiAndrea/Sport-Analysis)** *(coming soon)*:  
+  Data-driven insights and performance analysis tools for professional athletes.  
 
-- **[Digital Literacy Guide](https://github.com/VisiAndrea/Digital-Literacy)** *(coming soon)*:  
-  A complete guide for empowering teachers with digital tools like Word and PowerPoint.
+- **[AdvancedV2](https://github.com/VisiAndrea/AdvancedV2)**:  
+  MATLAB application for advanced computational analysis.  
 
 ---
 
 ## 📈 GitHub Stats  
 ![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisiAndrea&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiAndrea&layout=compact&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiAndrea&layout=compact&theme=tokyonight)](https://github.com/VisiAndrea)
 
 ---
 
@@ -49,4 +52,4 @@ Here’s a glimpse of my tech stack:
 
 ---
 
-“*The only way to do great work is to love what you do.*” – Steve Jobs  
+“*Turning theory into impactful real-world applications.*”  
