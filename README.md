@@ -1,22 +1,24 @@
 ### Hi, I'm **Andrea**, an AI Enthusiast and Master's Student in **Computer Engineering** at Università Politecnica delle Marche 👨‍💻  
 
-I have a strong passion for **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**, with a deep interest in **Mathematics**, **Logic**, and **Cybersecurity**. Currently, I am working in the field of **Sport Analysis**, collaborating with top-tier Italian and international sports organizations. My approach is to start from theory and then apply the acquired knowledge effectively in practice.  
+I have a strong passion for **Data Science**, **Machine Learning**, and **Data Analysis**, with a deep background in **Mathematics**, **Logic** and **Cybersecurity**, too. By the way, I love extrapolating value from data that doesn’t seem to have any! Currently, I am working in the field of **Sport Analysis**, collaborating with top-tier Italian and international sports organizations. My approach is to start from theory and then apply the acquired knowledge effectively in practice.  
 
 ---
 
 ## 🌟 About Me  
-- 🎓 **Education**: Master's in Computer Engineering  
-- 🚀 **Interests**: AI, Machine Learning, Sport Analysis, and Data Science  
-- 🏅 **Current Work**: Building data-driven insights for sports performance (coming soon)  
+- 🎓 **Education**: Master's degree in Computer Engineering  
+- 🚀 **Interests**: AI, Machine Learning, Data Science, Big Data Analysis  
+- 🏅 **Current Work**: Building data-driven deep insights for big companies (coming soon)  
 - 📬 **Contact**: [andrea.email@example.com](mailto:andrea.email@example.com)  
 
 ---
 
 ## 🛠️ My Expertise  
 - **Core Interests**:  
-  - 🤖 Artificial Intelligence & Machine Learning  
-  - 📊 Deep Learning Applications  
-  - 🔐 Cybersecurity and Mathematical Modeling  
+  - 🤖 Artificial Intelligence & Machine Learning
+  - 📊 Deep Learning Applications
+  - 🧮 Mathematical Modeling 
+  - 🔐 Cybersecurity
+  - 📈 Extrapolating value from data
 
 - **Programming Skills**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
