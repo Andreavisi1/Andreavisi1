@@ -9,7 +9,7 @@
 ---
 
 ## 🛠️ Recent Projects
-- [AdvancedV2](https://github.com/VisiAndrea/AdvancedV2): MATLAB application for advanced data analysis.  
+- [AdvancedV2](https://github.com/Andreavisi1/AdvancedV2): MATLAB application for advanced data analysis.  
 - More exciting projects coming soon! 😄  
 
 ---
@@ -21,8 +21,8 @@
 ---
 
 📈 **GitHub Stats**  
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisiAndrea&show_icons=true&theme=radical)  
+![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreavisi1&show_icons=true&theme=radical)  
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiAndrea&layout=compact&theme=radical)](https://github.com/VisiAndrea)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreavisi1&layout=compact&theme=radical)](https://github.com/VisiAndrea)
