@@ -65,8 +65,10 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   <img src="https://github.com/user-attachments/assets/de9b61f9-e22a-4285-af1b-27fc0fb53420" height="60rem" title="Flutter">
 
+![image]()
 
 
+  <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
 
 
 
