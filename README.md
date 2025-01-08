@@ -32,10 +32,10 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    
    <img src="https://github.com/user-attachments/assets/83d80b9f-5f6d-4f1f-bc44-5a31908df5ab" height="60rem" title="Kotlin">
 
-   <img src="https://github.com/user-attachments/assets/f403149d-0d6f-41e4-b83e-e6c7896916e5" height="60rem" title="PHP"> 
+   <img src="https://github.com/user-attachments/assets/94960bea-a75e-44cc-b272-bc6688d36bbb" height="60rem" title="PHP"> 
 
    <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
-  
+
    <img src="https://github.com/user-attachments/assets/35d586ad-be80-44b3-b8dc-b86d4e21b0d5" height="60rem" title="HTML">
    
    <img src="https://github.com/user-attachments/assets/b79ba726-e395-44fc-93b8-bc1a97d90745" height="60rem" title="MySQL">
@@ -46,9 +46,9 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    
    <img src="https://github.com/user-attachments/assets/251758d4-d8d0-467e-aa33-5643065cb030" height="60rem" title="MATLAB">
    
-    <img src="https://github.com/user-attachments/assets/cb973c87-1f05-47a4-9d00-b6c4915d5a4e" height="60rem" title="Java">
+   <img src="https://github.com/user-attachments/assets/cb973c87-1f05-47a4-9d00-b6c4915d5a4e" height="60rem" title="Java">
   
-  <img src="https://github.com/user-attachments/assets/3e068d06-61cf-4e64-b632-559b4a1dab6f" height="60rem" title="C++"> 
+   <img src="https://github.com/user-attachments/assets/3e068d06-61cf-4e64-b632-559b4a1dab6f" height="60rem" title="C++"> 
   
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
