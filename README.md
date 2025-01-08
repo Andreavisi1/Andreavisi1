@@ -1,4 +1,4 @@
-### Hi, I'm **Andrea**, an AI Enthusiast and Master's Student in **Computer Engineering** at Università Politecnica delle Marche 👨‍💻  
+# 👋 Hi, I'm **Andrea**, an AI Enthusiast and Master's Student in **Computer Engineering** at Università Politecnica delle Marche 👨‍💻  
 
 I have a strong passion for **Data Science**, **Machine Learning**, and **Data Analysis**, with a deep background in **Mathematics**, **Logic** and **Cybersecurity**, too. By the way, I love extrapolating value from data that doesn’t seem to have any! Currently, I am working in the field of **Sport Analysis**, collaborating with top-tier Italian and international sports organizations. My approach is to start from theory and then apply the acquired knowledge effectively in practice.  
 
