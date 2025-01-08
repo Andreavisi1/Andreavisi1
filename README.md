@@ -56,7 +56,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   - **Business Intelligence**:
  
-    <img src="https://github.com/user-attachments/assets/22ec3ba9-9a66-4bbc-b59a-aefa31073d0c" height="90rem" title="Qlik">
+    <img src="https://github.com/user-attachments/assets/22ec3ba9-9a66-4bbc-b59a-aefa31073d0c" height="90rem" title="Qlik">    
 
     <img src="https://github.com/user-attachments/assets/dc84eb75-1d5c-4e1d-bb26-d2173d63a7dc" height="90rem" title="Tableau">
 
