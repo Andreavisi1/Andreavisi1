@@ -63,7 +63,11 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   <img src="https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3" height="60rem" title="Laravel">
 
+- Prog mobile: (ambienti di sviluppo mobile):
 
+    <img src="[https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F217740%2Fandroid&psig=AOvVaw0De1MD818deUit9kZDA0Ha&ust=1736418527620000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCpnKT15YoDFQAAAAAdAAAAABA-)" height="60rem" title="Android">
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F217740%2Fandroid&psig=AOvVaw0De1MD818deUit9kZDA0Ha&ust=1736418527620000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCpnKT15YoDFQAAAAAdAAAAABA-
 - **Tools & Platforms**:  
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
