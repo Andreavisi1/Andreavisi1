@@ -23,9 +23,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 - **Programming Skills**: 
 
    <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
-  
-   <img src="https://github.com/user-attachments/assets/35d586ad-be80-44b3-b8dc-b86d4e21b0d5" height="60rem" title="HTML">
-   
+     
    <img src="https://github.com/user-attachments/assets/b79ba726-e395-44fc-93b8-bc1a97d90745" height="60rem" title="MySQL">
    
    <img src="https://github.com/user-attachments/assets/2f6ce3a5-f08e-4fc6-923b-623f3407de07" height="60rem" title="AMPL">
