@@ -87,10 +87,15 @@ Eventualmente NLP
     <img src="https://github.com/user-attachments/assets/677e12a5-26e5-435f-b4f6-ae78a02c6a18" height="60rem" title="RapidMiner">
 
 
-  - **Model checking**:
+  - **Blockchain & Model checking**:
  
     <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
 
+    Ethereum
+
+    remix
+
+    ganache
     
   - **Mobile application development**:
 
@@ -104,12 +109,21 @@ Eventualmente NLP
     <img src="https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3" height="60rem" title="Laravel">
 
 
+  - CURA? AUTODESK?
+
+
   - **Others**:
+
+    Microsoft Project
  
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
     
     <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
 
+    git
+    latex
+    rivet
+    avoja
 
 
 - **Tools & Platforms**:  
