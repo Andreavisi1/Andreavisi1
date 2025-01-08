@@ -65,7 +65,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
 - Prog mobile: (ambienti di sviluppo mobile):
 
-    <img src="https://www.google.com/url?+sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F217740%2Fandroid&psig=AOvVaw0De1MD818deUit9kZDA0Ha&ust=1736418527620000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCpnKT15YoDFQAAAAAdAAAAABA-" height="60rem" title="Android">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F217740%2Fandroid&psig=AOvVaw0De1MD818deUit9kZDA0Ha&ust=1736418527620000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCpnKT15YoDFQAAAAAdAAAAABA-" height="60rem" title="Android">
 
 
 - **Tools & Platforms**:  
