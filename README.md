@@ -8,7 +8,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 - 🎓 **Education**: Master's degree in Computer Engineering  
 - 🚀 **Interests**: AI, Machine Learning, Data Science, Big Data Analysis  
 - 🏅 **Current Work**: Building data-driven deep insights for big companies (coming soon)  
-- 📬 **Contact**: [andrea.email@example.com](mailto:andrea.email@example.com)  
+- 📬 **Contact**: [andreavisi1@gmail.com](mailto:andreavisi1@gmail.com)  
 
 ---
 
