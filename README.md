@@ -20,7 +20,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   - 🔐 Cybersecurity
   - 📈 Extrapolating value from data
 
-- **Programming Skills**:
+- **Programming Skills**: 
 
    <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
   
@@ -34,16 +34,11 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    
    <img src="https://github.com/user-attachments/assets/9eb2fa60-b759-488a-b7b5-495ae35599a0" height="60rem" title="Kotlin">
   
-  <img src="https://github.com/user-attachments/assets/04ebdc56-5334-4f12-a2ec-4c91ec30bda3" height="60rem" title="PHP"> 
-
-![image]()
-![image]()
-![image]()
+   <img src="https://github.com/user-attachments/assets/04ebdc56-5334-4f12-a2ec-4c91ec30bda3" height="60rem" title="PHP"> 
 
 
 
-
-  <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
+   <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
   
    <img src="https://github.com/user-attachments/assets/35d586ad-be80-44b3-b8dc-b86d4e21b0d5" height="60rem" title="HTML">
    
