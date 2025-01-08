@@ -50,7 +50,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   
    <img src="https://github.com/user-attachments/assets/3e068d06-61cf-4e64-b632-559b4a1dab6f" height="60rem" title="C++"> 
 
--Framework:
+- Framework:
 
   <img src="https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3" height="60rem" title="Laravel">
 
