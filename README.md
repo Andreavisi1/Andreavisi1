@@ -60,7 +60,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
     <img src="https://github.com/user-attachments/assets/dc84eb75-1d5c-4e1d-bb26-d2173d63a7dc" height="90rem" title="Tableau">
 
-    <img src="https://github.com/user-attachments/assets/7700c432-8b75-4abc-a480-93b053dbceb5" height="60rem" title="Microsoft Power BI">
+    <img src="https://github.com/user-attachments/assets/7700c432-8b75-4abc-a480-93b053dbceb5" height="90rem" title="Microsoft Power BI">
 
 
   - **Data Processing / data science?**:
@@ -76,9 +76,9 @@ Eventualmente NLP
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="60rem" title="PyTorch">
 
-keras
+    keras
 
-yolo
+    yolo
 
     <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60rem" title="Hadoop">
 
