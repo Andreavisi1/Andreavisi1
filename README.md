@@ -54,11 +54,12 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   - **Business Intelligence**:
  
-    <img src="https://github.com/user-attachments/assets/ac69591d-0f4a-4ae9-8a10-9c916e89db4c" height="60rem" title="Qlik">
+    <img src="https://github.com/user-attachments/assets/22ec3ba9-9a66-4bbc-b59a-aefa31073d0c" height="60rem" title="Qlik">
 
     <img src="https://github.com/user-attachments/assets/dc84eb75-1d5c-4e1d-bb26-d2173d63a7dc" height="60rem" title="Tableau">
 
     <img src="https://github.com/user-attachments/assets/7700c432-8b75-4abc-a480-93b053dbceb5" height="60rem" title="Microsoft Power BI">
+
 
   - **Machine Learning & Deep Learning**:
  
@@ -72,17 +73,17 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
     <img src="https://github.com/user-attachments/assets/677e12a5-26e5-435f-b4f6-ae78a02c6a18" height="60rem" title="RapidMiner">
 
+
+  - **Model checking**:
+ 
+    <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
+
     
   - **Mobile application development**:
 
     <img src="https://github.com/user-attachments/assets/1f828ffc-f766-4468-a18e-9346b86d0d24" height="60rem" title="Android">
 
     <img src="https://github.com/user-attachments/assets/de9b61f9-e22a-4285-af1b-27fc0fb53420" height="60rem" title="Flutter">
-
-
-  - **Model checking**:
- 
-    <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
     
 
   - **Web application development**:
