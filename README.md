@@ -76,7 +76,11 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   <img src="https://github.com/user-attachments/assets/7700c432-8b75-4abc-a480-93b053dbceb5" height="60rem" title="Microsoft Power BI">
 
+  <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60rem" title="Hadoop">
 
+  <img src="https://github.com/user-attachments/assets/6d1c7c94-f3cb-4d37-ada1-49471279ce82" height="60rem" title="Spark">
+
+  <img src="https://github.com/user-attachments/assets/677e12a5-26e5-435f-b4f6-ae78a02c6a18" height="60rem" title="RapidMiner">
 
 
 - **Tools & Platforms**:  
