@@ -20,7 +20,26 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   - 🔐 Cybersecurity
   - 📈 Extrapolating value from data
 
-- **Programming Skills**:  
+- **Programming Skills**:
+
+
+
+<img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
+
+ <img src="https://github.com/user-attachments/assets/35d586ad-be80-44b3-b8dc-b86d4e21b0d5" height="60rem" title="HTML">
+ 
+ <img src="https://github.com/user-attachments/assets/b79ba726-e395-44fc-93b8-bc1a97d90745" height="60rem" title="MySQL">
+ 
+ <img src="https://github.com/user-attachments/assets/2f6ce3a5-f08e-4fc6-923b-623f3407de07" height="60rem" title="AMPL">
+
+ <img src="https://github.com/user-attachments/assets/7fd02cec-bd90-414c-ad61-d9d34bff52f9" height="60rem" title="Python">
+ 
+ <img src="https://github.com/user-attachments/assets/251758d4-d8d0-467e-aa33-5643065cb030" height="60rem" title="MATLAB">
+ 
+  <img src="https://github.com/user-attachments/assets/cb973c87-1f05-47a4-9d00-b6c4915d5a4e" height="60rem" title="Java">
+
+<img src="https://github.com/user-attachments/assets/3e068d06-61cf-4e64-b632-559b4a1dab6f" height="60rem" title="C++"> 
+  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
   ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
