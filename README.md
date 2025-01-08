@@ -30,8 +30,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   
    <img src="https://github.com/user-attachments/assets/1373861d-4cbe-48cd-800d-d38145a6a147" height="60rem" title="Dart">
    
-   <img src="https://github.com/user-attachments/assets/9eb2fa60-b759-488a-b7b5-495ae35599a0" height="60rem" title="Kotlin">
-  
+   <img src="https://github.com/user-attachments/assets/83d80b9f-5f6d-4f1f-bc44-5a31908df5ab" height="60rem" title="Kotlin">
+
    <img src="https://github.com/user-attachments/assets/04ebdc56-5334-4f12-a2ec-4c91ec30bda3" height="60rem" title="PHP"> 
 
    <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
