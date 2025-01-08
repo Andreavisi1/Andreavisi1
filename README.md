@@ -1,4 +1,4 @@
-![android-svgrepo-com](https://github.com/user-attachments/assets/01a4612a-aabf-4def-a97c-ec61be16bd4f)### Hi, I'm **Andrea**, an AI Enthusiast and Master's Student in **Computer Engineering** at Università Politecnica delle Marche 👨‍💻  
+### Hi, I'm **Andrea**, an AI Enthusiast and Master's Student in **Computer Engineering** at Università Politecnica delle Marche 👨‍💻  
 
 I have a strong passion for **Data Science**, **Machine Learning**, and **Data Analysis**, with a deep background in **Mathematics**, **Logic** and **Cybersecurity**, too. By the way, I love extrapolating value from data that doesn’t seem to have any! Currently, I am working in the field of **Sport Analysis**, collaborating with top-tier Italian and international sports organizations. My approach is to start from theory and then apply the acquired knowledge effectively in practice.  
 
@@ -65,9 +65,11 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   <img src="https://github.com/user-attachments/assets/1f828ffc-f766-4468-a18e-9346b86d0d24" height="60rem" title="Android">
 
+  <img src="https://github.com/user-attachments/assets/de9b61f9-e22a-4285-af1b-27fc0fb53420" height="60rem" title="Flutter">
 
 
-![image]()
+
+
 
 
 - **Tools & Platforms**:  
