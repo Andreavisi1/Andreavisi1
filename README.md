@@ -49,11 +49,6 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    <img src="https://github.com/user-attachments/assets/cb973c87-1f05-47a4-9d00-b6c4915d5a4e" height="60rem" title="Java">
   
    <img src="https://github.com/user-attachments/assets/3e068d06-61cf-4e64-b632-559b4a1dab6f" height="60rem" title="C++"> 
-  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
 
 -Framework:
 
