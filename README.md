@@ -32,7 +32,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    
    <img src="https://github.com/user-attachments/assets/83d80b9f-5f6d-4f1f-bc44-5a31908df5ab" height="60rem" title="Kotlin">
 
-   <img src="https://github.com/user-attachments/assets/f6d2fc11-5bc2-4aef-918e-412d4559bfb2" height="60rem" title="PHP"> 
+   <img src="https://github.com/user-attachments/assets/7352bc29-fcfc-428a-a531-0ca86a3ecb4a" height="60rem" title="PHP"> 
 
    <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
 
