@@ -50,6 +50,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   
    <img src="https://github.com/user-attachments/assets/3e068d06-61cf-4e64-b632-559b4a1dab6f" height="60rem" title="C++"> 
 
+
+
 - **Frameworks, platforms, libraries**:
 
   - **Business Intelligence**:
@@ -61,11 +63,22 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
     <img src="https://github.com/user-attachments/assets/7700c432-8b75-4abc-a480-93b053dbceb5" height="60rem" title="Microsoft Power BI">
 
 
+  - **Data Processing / data science?**:
+
+scikit learn, BERT, NetworkX, StatsModel, PANDAS, RASA
+
+Eventualmente NLP
+
+
   - **Machine Learning & Deep Learning**:
  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" height="60rem" title="TensorFlow"> 
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="60rem" title="PyTorch">
+
+keras
+
+yolo
 
     <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60rem" title="Hadoop">
 
