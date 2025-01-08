@@ -50,47 +50,52 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   
    <img src="https://github.com/user-attachments/assets/3e068d06-61cf-4e64-b632-559b4a1dab6f" height="60rem" title="C++"> 
 
-- Frameworks, platforms and main libraries:
+- **Frameworks, platforms, libraries**:
 
-  - Machine Learning & Deep Learning:
+  - **Business Intelligence**:
+ 
+    <img src="https://github.com/user-attachments/assets/ac69591d-0f4a-4ae9-8a10-9c916e89db4c" height="60rem" title="Qlik">
+
+    <img src="https://github.com/user-attachments/assets/dc84eb75-1d5c-4e1d-bb26-d2173d63a7dc" height="60rem" title="Tableau">
+
+    <img src="https://github.com/user-attachments/assets/7700c432-8b75-4abc-a480-93b053dbceb5" height="60rem" title="Microsoft Power BI">
+
+  - **Machine Learning & Deep Learning**:
  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" height="60rem" title="TensorFlow"> 
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="60rem" title="PyTorch">
 
+    <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60rem" title="Hadoop">
+
+    <img src="https://github.com/user-attachments/assets/6d1c7c94-f3cb-4d37-ada1-49471279ce82" height="60rem" title="Spark">
+
+    <img src="https://github.com/user-attachments/assets/677e12a5-26e5-435f-b4f6-ae78a02c6a18" height="60rem" title="RapidMiner">
+
     
-  - Mobile application development:
+  - **Mobile application development**:
 
     <img src="https://github.com/user-attachments/assets/1f828ffc-f766-4468-a18e-9346b86d0d24" height="60rem" title="Android">
 
     <img src="https://github.com/user-attachments/assets/de9b61f9-e22a-4285-af1b-27fc0fb53420" height="60rem" title="Flutter">
 
-  - Web application development:
+
+  - **Model checking**:
+ 
+    <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
+    
+
+  - **Web application development**:
 
     <img src="https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3" height="60rem" title="Laravel">
 
 
-
-  - Others:
+  - **Others**:
  
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
     
     <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
 
-
-  <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
-
-  <img src="https://github.com/user-attachments/assets/ac69591d-0f4a-4ae9-8a10-9c916e89db4c" height="60rem" title="Qlik">
-
-  <img src="https://github.com/user-attachments/assets/dc84eb75-1d5c-4e1d-bb26-d2173d63a7dc" height="60rem" title="Tableau">
-
-  <img src="https://github.com/user-attachments/assets/7700c432-8b75-4abc-a480-93b053dbceb5" height="60rem" title="Microsoft Power BI">
-
-  <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60rem" title="Hadoop">
-
-  <img src="https://github.com/user-attachments/assets/6d1c7c94-f3cb-4d37-ada1-49471279ce82" height="60rem" title="Spark">
-
-  <img src="https://github.com/user-attachments/assets/677e12a5-26e5-435f-b4f6-ae78a02c6a18" height="60rem" title="RapidMiner">
 
 
 - **Tools & Platforms**:  
