@@ -50,17 +50,32 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   
    <img src="https://github.com/user-attachments/assets/3e068d06-61cf-4e64-b632-559b4a1dab6f" height="60rem" title="C++"> 
 
-- Framework:
+- Frameworks, platforms and main libraries:
 
-  <img src="https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3" height="60rem" title="Laravel">
+  - Machine Learning & Deep Learning:
+ 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" height="60rem" title="TensorFlow"> 
 
-- Prog mobile: (ambienti di sviluppo mobile):
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="60rem" title="PyTorch">
 
-  <img src="https://github.com/user-attachments/assets/1f828ffc-f766-4468-a18e-9346b86d0d24" height="60rem" title="Android">
+    
+  - Mobile application development:
 
-  <img src="https://github.com/user-attachments/assets/de9b61f9-e22a-4285-af1b-27fc0fb53420" height="60rem" title="Flutter">
+    <img src="https://github.com/user-attachments/assets/1f828ffc-f766-4468-a18e-9346b86d0d24" height="60rem" title="Android">
 
-![image]()
+    <img src="https://github.com/user-attachments/assets/de9b61f9-e22a-4285-af1b-27fc0fb53420" height="60rem" title="Flutter">
+
+  - Web application development:
+
+    <img src="https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3" height="60rem" title="Laravel">
+
+
+
+  - Others:
+ 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
+    
+    <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
 
 
   <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
