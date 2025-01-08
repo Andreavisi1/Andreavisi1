@@ -22,19 +22,17 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
 - **Programming Skills**: 
 
-   <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
+   <img src="https://github.com/user-attachments/assets/ca05a313-d541-4eb4-86f8-671f866efad7" height="60rem" title="Solidity">
      
-   <img src="https://github.com/user-attachments/assets/b79ba726-e395-44fc-93b8-bc1a97d90745" height="60rem" title="MySQL">
+   <img src="https://github.com/user-attachments/assets/dc62313b-f5c9-456e-9efd-f8b1b1494064" height="60rem" title="Prolog">
    
-   <img src="https://github.com/user-attachments/assets/2f6ce3a5-f08e-4fc6-923b-623f3407de07" height="60rem" title="AMPL">
+   <img src="https://github.com/user-attachments/assets/7f40b744-e4ee-4c4e-9335-9ddac0eb17f3" height="60rem" title="Swift">
   
-   <img src="https://github.com/user-attachments/assets/7fd02cec-bd90-414c-ad61-d9d34bff52f9" height="60rem" title="Python">
+   <img src="https://github.com/user-attachments/assets/1373861d-4cbe-48cd-800d-d38145a6a147" height="60rem" title="Dart">
    
    <img src="https://github.com/user-attachments/assets/9eb2fa60-b759-488a-b7b5-495ae35599a0" height="60rem" title="Kotlin">
   
    <img src="https://github.com/user-attachments/assets/04ebdc56-5334-4f12-a2ec-4c91ec30bda3" height="60rem" title="PHP"> 
-
-
 
    <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
   
