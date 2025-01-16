@@ -147,6 +147,10 @@ Eventualmente NLP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiAndrea&layout=compact&theme=tokyonight)](https://github.com/VisiAndrea)
 
+![Simone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreavisi1&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreavisi1&layout=compact&theme=radical)
+
 ---
 
 ## 🌍 Let's Connect  
