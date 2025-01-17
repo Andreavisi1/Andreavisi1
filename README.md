@@ -25,6 +25,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    <img src="https://github.com/user-attachments/assets/ca05a313-d541-4eb4-86f8-671f866efad7" height="60rem" title="Solidity">
      
    <img src="https://github.com/user-attachments/assets/dc62313b-f5c9-456e-9efd-f8b1b1494064" height="60rem" title="Prolog">
+
+    <img src="https://github.com/user-attachments/assets/f435bae4-2970-4a87-8b74-64709d6c686a" height="60rem" title="Latex">
    
    <img src="https://github.com/user-attachments/assets/7f40b744-e4ee-4c4e-9335-9ddac0eb17f3" height="60rem" title="Swift">
   
@@ -70,23 +72,23 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
     <img src="https://github.com/user-attachments/assets/208ded03-8c5f-4340-9c20-5bc6d897f3ec" height="60rem" title="Pandas">
 
     <img src="https://github.com/user-attachments/assets/9b28c75c-5095-47be-90cc-8d7a33e22266" height="60rem" title="Statsmodels">
-    
-    <img src="https://github.com/user-attachments/assets/b7425111-63b7-44e9-a083-26f5d489c881" height="60rem" title="NetworkX">
-    
+        
     <img src="https://github.com/user-attachments/assets/bcde3597-6195-4ef6-b771-ecf80eae08c2" height="60rem" title="BERT">
 
     <img src="https://github.com/user-attachments/assets/bb1c336b-99e4-49a2-ab88-9638cf1aaf35" height="60rem" title="RASA">
 
+    <img src="https://github.com/user-attachments/assets/b7425111-63b7-44e9-a083-26f5d489c881" height="60rem" title="NetworkX">
+
 
   - **Machine Learning & Deep Learning**:
+ 
+    <img src="https://github.com/user-attachments/assets/1b97e29f-618d-499d-91f5-3aa9cc8607fc" height="60rem" title="YOLO">
  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" height="60rem" title="TensorFlow"> 
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="60rem" title="PyTorch">
-
-    keras
-
-    yolo
+ 
+      <img src="https://github.com/user-attachments/assets/d2a74c09-d023-45bd-8a41-a01dc4d75400" height="60rem" title="Keras">
 
     <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60rem" title="Hadoop">
 
@@ -105,11 +107,15 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
     ganache
     
-  - **Mobile application development**:
+  - **Mobile application development and governance**:
 
     <img src="https://github.com/user-attachments/assets/1f828ffc-f766-4468-a18e-9346b86d0d24" height="60rem" title="Android">
 
     <img src="https://github.com/user-attachments/assets/de9b61f9-e22a-4285-af1b-27fc0fb53420" height="60rem" title="Flutter">
+
+    <img src="https://github.com/user-attachments/assets/e463d6a4-b672-4ad6-8f43-2249ef2f49ab" height="60rem" title="AdMob">
+      
+  <img src="https://github.com/user-attachments/assets/445f0e5d-3f49-4854-8d41-0fee5d0f22bd" height="60rem" title="Google Play Console">
     
 
   - **Web application development**:
@@ -122,14 +128,19 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   - **Others**:
 
-    Microsoft Project
+    <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="60rem" title="Microsoft Project">
  
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
+ 
+      <img src="https://github.com/user-attachments/assets/0a937d89-a5c5-4190-96c0-3312c97a67c4" height="60rem" title="Firestore">
+      
+  <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
     
     <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
+ 
+      <img src="https://github.com/user-attachments/assets/967d7fdd-332a-47ff-96d2-74fc5a9cd4c2" height="60rem" title="Amazon-Web-Services">
 
     git
-    latex
     rivet
     avoja
 
