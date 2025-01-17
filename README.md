@@ -65,9 +65,17 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   - **Data Processing / data science?**:
 
-scikit learn, BERT, NetworkX, StatsModel, PANDAS, RASA
+    <img src="https://github.com/user-attachments/assets/dbc4a7b9-1a2e-47b3-8a30-a1ac031d7108" height="90rem" title="Scikit Learn">    
 
-Eventualmente NLP
+    <img src="https://github.com/user-attachments/assets/915700b9-0002-4f8e-82b6-432271fa43b0" height="90rem" title="Pandas">
+
+    <img src="https://github.com/user-attachments/assets/9b28c75c-5095-47be-90cc-8d7a33e22266" height="80rem" title="Statsmodels">
+
+    <img src="https://github.com/user-attachments/assets/b7425111-63b7-44e9-a083-26f5d489c881" height="90rem" title="NetworkX"> 
+
+    <img src="https://github.com/user-attachments/assets/bcde3597-6195-4ef6-b771-ecf80eae08c2" height="90rem" title="BERT">
+
+    <img src="https://github.com/user-attachments/assets/012cef99-88b4-449e-87ae-f3a198d0af22" height="80rem" title="RASA">
 
 
   - **Machine Learning & Deep Learning**:
