@@ -60,8 +60,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
     <img src="https://github.com/user-attachments/assets/dc84eb75-1d5c-4e1d-bb26-d2173d63a7dc" height="90rem" title="Tableau">
 
-    <img src="!https://github.com/user-attachments/assets/7d890f14-590e-4d6d-abfd-49423439ffb1
-" height="90rem" title="Microsoft Power BI">
+    <img src="https://github.com/user-attachments/assets/7d890f14-590e-4d6d-abfd-49423439ffb1" height="90rem" title="Microsoft Power BI">
 
 
   - **Data Processing / data science?**:
