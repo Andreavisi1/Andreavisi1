@@ -99,6 +99,12 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   - **Blockchain & Model checking**:
  
+    <img src="https://github.com/user-attachments/assets/7d5b9404-ea36-4dc7-9e47-f0071dfae2bf" height="60rem" title="Ethereum">
+
+    <img src="https://github.com/user-attachments/assets/626bcc96-87c8-434c-bda7-2e9a76ba670c" height="60rem" title="Remix">
+
+    <img src="https://github.com/user-attachments/assets/af2369dd-b6e4-4d36-8600-e878db8326a2)" height="60rem" title="Ganache">
+ 
     <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
 
     Ethereum
@@ -125,7 +131,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   - **3D Printing & Modeling**:CURA? AUTODESK?
 
-    <img src="https://github.com/user-attachments/assets/07a338de-3914-466d-8c5b-c31dec67027d" title="Ultimaker Cura">
+    <img src="https://github.com/user-attachments/assets/07a338de-3914-466d-8c5b-c31dec67027d" height="60rem" title="Ultimaker Cura">
 
     <img src="https://github.com/user-attachments/assets/35969cf1-303e-4f54-8f9d-84fb8c5ead55" height="60rem" title="Autodesk Fusion 360">
 
@@ -145,8 +151,6 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
  
     <img src="https://github.com/user-attachments/assets/31bf9beb-78bc-4382-94c8-8eb8af16d8ed" height="60rem" title="Rivet">
 
-    git
-    rivet
     avoja
 
 
