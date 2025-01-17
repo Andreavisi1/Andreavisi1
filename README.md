@@ -123,12 +123,15 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
     <img src="https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3" height="60rem" title="Laravel">
 
 
-  - CURA? AUTODESK?
+  - **3D Printing & Modeling**:CURA? AUTODESK?
 
+    <img src="https://github.com/user-attachments/assets/07a338de-3914-466d-8c5b-c31dec67027d" title="Ultimaker Cura">
+
+    <img src="https://github.com/user-attachments/assets/35969cf1-303e-4f54-8f9d-84fb8c5ead55" height="60rem" title="Autodesk Fusion 360">
 
   - **Others**:
 
-    <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="60rem" title="Microsoft Project">
+    <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="50rem" title="Microsoft Project">
  
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
  
@@ -139,6 +142,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
     <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
  
     <img src="https://github.com/user-attachments/assets/967d7fdd-332a-47ff-96d2-74fc5a9cd4c2" height="60rem" title="Amazon-Web-Services">
+ 
+    <img src="https://github.com/user-attachments/assets/31bf9beb-78bc-4382-94c8-8eb8af16d8ed" height="60rem" title="Rivet">
 
     git
     rivet
