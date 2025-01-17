@@ -36,13 +36,13 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    
    <img src="https://github.com/user-attachments/assets/83d80b9f-5f6d-4f1f-bc44-5a31908df5ab" height="60rem" title="Kotlin">
 
+   <img src="https://github.com/user-attachments/assets/f435bae4-2970-4a87-8b74-64709d6c686a" height="60rem" title="Latex">
+
    <img src="https://github.com/user-attachments/assets/98af7fe5-325f-4538-9c54-7c12544fcc4a" height="60rem" title="PHP"> 
 
    <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
 
    <img src="https://github.com/user-attachments/assets/35d586ad-be80-44b3-b8dc-b86d4e21b0d5" height="60rem" title="HTML">
-
-   <img src="https://github.com/user-attachments/assets/f435bae4-2970-4a87-8b74-64709d6c686a" height="60rem" title="Latex">
 
    <img src="https://github.com/user-attachments/assets/b79ba726-e395-44fc-93b8-bc1a97d90745" height="60rem" title="MySQL">
    
@@ -171,7 +171,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
 ---
 
-## 🌍 Let's Connect  
+## 🌍 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visiandrea/)   [![Email Badge](https://img.shields.io/badge/Email_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:andrea.email@example.com)
 
 ---
