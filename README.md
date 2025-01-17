@@ -62,11 +62,11 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   
   - **Business Intelligence**:
    
-      <img src="https://github.com/user-attachments/assets/22ec3ba9-9a66-4bbc-b59a-aefa31073d0c" height="90rem" title="Qlik">    
+      <img src="https://github.com/user-attachments/assets/22ec3ba9-9a66-4bbc-b59a-aefa31073d0c" height="60rem" title="Qlik">    
   
-      <img src="https://github.com/user-attachments/assets/dc84eb75-1d5c-4e1d-bb26-d2173d63a7dc" height="90rem" title="Tableau">
+      <img src="https://github.com/user-attachments/assets/dc84eb75-1d5c-4e1d-bb26-d2173d63a7dc" height="60rem" title="Tableau">
   
-      <img src="https://github.com/user-attachments/assets/7d890f14-590e-4d6d-abfd-49423439ffb1" height="80rem" title="Microsoft Power BI">
+      <img src="https://github.com/user-attachments/assets/7d890f14-590e-4d6d-abfd-49423439ffb1" height="60rem" title="Microsoft Power BI">
   
   
   - **Data Science & Data Processing**:
@@ -138,7 +138,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   
       <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="50rem" title="Microsoft Project">
    
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="60rem" title="Git">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="60rem" title="Git">
    
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
    
