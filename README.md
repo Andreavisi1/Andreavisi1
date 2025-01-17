@@ -103,15 +103,10 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
     <img src="https://github.com/user-attachments/assets/626bcc96-87c8-434c-bda7-2e9a76ba670c" height="60rem" title="Remix">
 
-    <img src="https://github.com/user-attachments/assets/af2369dd-b6e4-4d36-8600-e878db8326a2)" height="60rem" title="Ganache">
+    <img src="https://github.com/user-attachments/assets/af2369dd-b6e4-4d36-8600-e878db8326a2" height="60rem" title="Ganache">
  
     <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
 
-    Ethereum
-
-    remix
-
-    ganache
     
   - **Mobile application development and governance**:
 
@@ -129,7 +124,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
     <img src="https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3" height="60rem" title="Laravel">
 
 
-  - **3D Printing & Modeling**:CURA? AUTODESK?
+  - **3D Printing & Modeling**:
 
     <img src="https://github.com/user-attachments/assets/07a338de-3914-466d-8c5b-c31dec67027d" height="60rem" title="Ultimaker Cura">
 
@@ -138,6 +133,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   - **Others**:
 
     <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="50rem" title="Microsoft Project">
+ 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="60rem" title="Git">
  
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
  
