@@ -12,7 +12,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
 ---
 
-## 🛠️ My Expertise  
+## 🔨 My Expertise  
 
 ### Core Interests
 
