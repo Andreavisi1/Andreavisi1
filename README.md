@@ -13,15 +13,16 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 ---
 
 ## 🛠️ My Expertise  
-- **Core Interests**:  
+
+### Core Interests
+
   - 🤖 Artificial Intelligence & Machine Learning
   - 📊 Deep Learning Applications
   - 🧮 Mathematical Modeling 
   - 🔐 Cybersecurity
   - 📈 Extrapolating value from data
 
-### 🛠️ Programming Skills 
-
+### Programming Skills 
 
 - **Programming Languages**: 
 
