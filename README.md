@@ -7,7 +7,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 ## 🌟 About Me  
 - 🎓 **Education**: Master's degree in Computer Engineering  
 - 🚀 **Interests**: AI, Machine Learning, Data Science, Big Data Analysis  
-- 🏅 **Current Work**: Building data-driven deep insights for big companies (coming soon)  
+- 🏅 **Current Work**: Building data-driven deep insights for sports organizations (coming soon)  
 - 📬 **Contact**: [andreavisi1@gmail.com](mailto:andreavisi1@gmail.com)  
 
 ---
@@ -176,4 +176,4 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
 ---
 
-<--!“*Turning theory into impactful real-world applications.*”  -->
+<!-- “*Turning theory into impactful real-world applications.*”  -->
