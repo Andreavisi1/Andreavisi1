@@ -154,19 +154,16 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
 ---
 
-## 🚧 Current Projects  
+<!--## 🚧 Current Projects  
 - **[Sport Analysis Toolkit](https://github.com/VisiAndrea/Sport-Analysis)** *(coming soon)*:  
   Data-driven insights and performance analysis tools for professional athletes.  
 
 - **[AdvancedV2](https://github.com/VisiAndrea/AdvancedV2)**:  
-  MATLAB application for advanced computational analysis.  
+  MATLAB application for advanced computational analysis.  -->
 
 ---
 
 ## 📈 GitHub Stats  
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisiAndrea&show_icons=true&theme=tokyonight)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisiAndrea&layout=compact&theme=tokyonight)](https://github.com/VisiAndrea)
 
 ![Simone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreavisi1&show_icons=true&theme=radical)
 
@@ -175,8 +172,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 ---
 
 ## 🌍 Let's Connect  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visiandrea/)  
-- 📧 [Email Me](mailto:andrea.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visiandrea/)  
+📧 [Email Me](mailto:andrea.email@example.com)  
 
 ---
 
