@@ -62,11 +62,11 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   
   - **Business Intelligence**:
    
-      <img src="https://github.com/user-attachments/assets/2c08b2d1-39c3-45a2-ba4a-f4a73f2db291" height="60rem" title="Qlik">    
+      <img src="https://github.com/user-attachments/assets/1b16f035-15c3-4e6c-bf46-90ebff1c07e1" height="60rem" title="Qlik">    
   
       <img src="https://github.com/user-attachments/assets/721258ec-38cc-4c07-a58e-0b955e742571" height="60rem" title="Tableau">
   
-      <img src="https://github.com/user-attachments/assets/040bb48d-31de-44c5-b912-1f90ea6c6fac" height="60rem" title="Microsoft Power BI">
+      <img src="https://github.com/user-attachments/assets/e69f820a-8954-4deb-a5e6-633518fbfb56" height="60rem" title="Microsoft Power BI">
   
   
   - **Data Science & Data Processing**:
