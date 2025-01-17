@@ -20,7 +20,10 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   - 🔐 Cybersecurity
   - 📈 Extrapolating value from data
 
-- **Programming Skills**: 
+### 🛠️ Programming Skills 
+
+
+- **Programming Languages**: 
 
    <img src="https://github.com/user-attachments/assets/ca05a313-d541-4eb4-86f8-671f866efad7" height="60rem" title="Solidity">
      
