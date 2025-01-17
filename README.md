@@ -25,8 +25,6 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    <img src="https://github.com/user-attachments/assets/ca05a313-d541-4eb4-86f8-671f866efad7" height="60rem" title="Solidity">
      
    <img src="https://github.com/user-attachments/assets/dc62313b-f5c9-456e-9efd-f8b1b1494064" height="60rem" title="Prolog">
-
-    <img src="https://github.com/user-attachments/assets/f435bae4-2970-4a87-8b74-64709d6c686a" height="60rem" title="Latex">
    
    <img src="https://github.com/user-attachments/assets/7f40b744-e4ee-4c4e-9335-9ddac0eb17f3" height="60rem" title="Swift">
   
@@ -39,6 +37,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
 
    <img src="https://github.com/user-attachments/assets/35d586ad-be80-44b3-b8dc-b86d4e21b0d5" height="60rem" title="HTML">
+
+   <img src="https://github.com/user-attachments/assets/f435bae4-2970-4a87-8b74-64709d6c686a" height="60rem" title="Latex">
 
    <img src="https://github.com/user-attachments/assets/b79ba726-e395-44fc-93b8-bc1a97d90745" height="60rem" title="MySQL">
    
@@ -88,7 +88,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="60rem" title="PyTorch">
  
-      <img src="https://github.com/user-attachments/assets/d2a74c09-d023-45bd-8a41-a01dc4d75400" height="60rem" title="Keras">
+    <img src="https://github.com/user-attachments/assets/d2a74c09-d023-45bd-8a41-a01dc4d75400" height="60rem" title="Keras">
 
     <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60rem" title="Hadoop">
 
@@ -115,7 +115,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
     <img src="https://github.com/user-attachments/assets/e463d6a4-b672-4ad6-8f43-2249ef2f49ab" height="60rem" title="AdMob">
       
-  <img src="https://github.com/user-attachments/assets/445f0e5d-3f49-4854-8d41-0fee5d0f22bd" height="60rem" title="Google Play Console">
+    <img src="https://github.com/user-attachments/assets/445f0e5d-3f49-4854-8d41-0fee5d0f22bd" height="60rem" title="Google Play Console">
     
 
   - **Web application development**:
@@ -132,13 +132,13 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
  
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
  
-      <img src="https://github.com/user-attachments/assets/0a937d89-a5c5-4190-96c0-3312c97a67c4" height="60rem" title="Firestore">
+    <img src="https://github.com/user-attachments/assets/0a937d89-a5c5-4190-96c0-3312c97a67c4" height="60rem" title="Firestore">
       
-  <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
+    <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
     
     <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
  
-      <img src="https://github.com/user-attachments/assets/967d7fdd-332a-47ff-96d2-74fc5a9cd4c2" height="60rem" title="Amazon-Web-Services">
+    <img src="https://github.com/user-attachments/assets/967d7fdd-332a-47ff-96d2-74fc5a9cd4c2" height="60rem" title="Amazon-Web-Services">
 
     git
     rivet
