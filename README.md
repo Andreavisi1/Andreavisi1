@@ -58,9 +58,9 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
 
 
-  - **Frameworks, platforms, libraries**:
+- **Frameworks, platforms, libraries**:
   
-    - **Business Intelligence**:
+  - **Business Intelligence**:
    
       <img src="https://github.com/user-attachments/assets/22ec3ba9-9a66-4bbc-b59a-aefa31073d0c" height="90rem" title="Qlik">    
   
@@ -69,7 +69,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
       <img src="https://github.com/user-attachments/assets/7d890f14-590e-4d6d-abfd-49423439ffb1" height="80rem" title="Microsoft Power BI">
   
   
-    - **Data Science & Data Processing**:
+  - **Data Science & Data Processing**:
   
       <img src="https://github.com/user-attachments/assets/6e8372f8-c47d-4d11-92ad-e01f9e3769fa" height="60rem" title="Scikit Learn">    
   
@@ -84,7 +84,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
       <img src="https://github.com/user-attachments/assets/b7425111-63b7-44e9-a083-26f5d489c881" height="60rem" title="NetworkX">
   
   
-    - **Machine Learning & Deep Learning**:
+  - **Machine Learning & Deep Learning**:
    
       <img src="https://github.com/user-attachments/assets/1b97e29f-618d-499d-91f5-3aa9cc8607fc" height="60rem" title="YOLO">
    
@@ -101,7 +101,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
       <img src="https://github.com/user-attachments/assets/677e12a5-26e5-435f-b4f6-ae78a02c6a18" height="60rem" title="RapidMiner">
   
   
-    - **Blockchain & Model checking**:
+  - **Blockchain & Model checking**:
    
       <img src="https://github.com/user-attachments/assets/7d5b9404-ea36-4dc7-9e47-f0071dfae2bf" height="60rem" title="Ethereum">
   
@@ -112,7 +112,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
       <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
   
       
-    - **Mobile application development and governance**:
+  - **Mobile application development and governance**:
   
       <img src="https://github.com/user-attachments/assets/1f828ffc-f766-4468-a18e-9346b86d0d24" height="60rem" title="Android">
   
@@ -123,18 +123,18 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
       <img src="https://github.com/user-attachments/assets/445f0e5d-3f49-4854-8d41-0fee5d0f22bd" height="60rem" title="Google Play Console">
       
   
-    - **Web application development**:
+  - **Web application development**:
   
       <img src="https://github.com/user-attachments/assets/a8d1dc83-825e-4ca6-ae05-6da82bf0bbe3" height="60rem" title="Laravel">
   
   
-    - **3D Printing & Modeling**:
+  - **3D Printing & Modeling**:
   
       <img src="https://github.com/user-attachments/assets/07a338de-3914-466d-8c5b-c31dec67027d" height="60rem" title="Ultimaker Cura">
   
       <img src="https://github.com/user-attachments/assets/35969cf1-303e-4f54-8f9d-84fb8c5ead55" height="60rem" title="Autodesk Fusion 360">
   
-    - **Others**:
+  - **Others**:
   
       <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="50rem" title="Microsoft Project">
    
@@ -151,14 +151,6 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
       <img src="https://github.com/user-attachments/assets/967d7fdd-332a-47ff-96d2-74fc5a9cd4c2" height="60rem" title="Amazon-Web-Services">
    
       <img src="https://github.com/user-attachments/assets/31bf9beb-78bc-4382-94c8-8eb8af16d8ed" height="60rem" title="Rivet">
-
-    avoja
-
-
-- **Tools & Platforms**:  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-  ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)  
 
 ---
 
