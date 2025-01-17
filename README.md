@@ -65,7 +65,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 
   - **Data Processing / data science?**:
 
-    <img src="https://github.com/user-attachments/assets/dbc4a7b9-1a2e-47b3-8a30-a1ac031d7108" height="80rem" title="Scikit Learn">    
+    <img src="https://github.com/user-attachments/assets/6a847c74-2314-4ab4-ab9f-5d62e0acde48" height="80rem" title="Scikit Learn">    
 
     <img src="https://github.com/user-attachments/assets/915700b9-0002-4f8e-82b6-432271fa43b0" height="80rem" title="Pandas">
 
