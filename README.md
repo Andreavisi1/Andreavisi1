@@ -172,7 +172,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 ---
 
 ## 🌍 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visiandrea/)   [![Email Badge](https://img.shields.io/badge/Email_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=db4a39)](mailto:andrea.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/visiandrea/)   [![Email Badge](https://img.shields.io/badge/Email_Me-green?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=db4a39)](mailto:andreavisi1@gmail.com)
 
 ---
 
