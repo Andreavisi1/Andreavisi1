@@ -142,7 +142,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
    
       <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
    
-      <img src="https://github.com/user-attachments/assets/0a937d89-a5c5-4190-96c0-3312c97a67c4" height="60rem" title="Firestore">
+      <img src="https://github.com/user-attachments/assets/e855e3ae-c733-4948-8a50-e93ad988e011" height="60rem" title="Firestore">
         
       <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
       
@@ -159,7 +159,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   Data-driven insights and performance analysis tools for professional athletes.  
 
 - **[AdvancedV2](https://github.com/VisiAndrea/AdvancedV2)**:  
-  MATLAB application for advanced computational analysis.  -->
+  MATLAB application for advanced computational analysis. 
   
   
   
@@ -176,7 +176,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
 > Critical content demanding immediate user attention due to potential risks.
 
 > [!CAUTION]
-> Negative potential consequences of an action.
+> Negative potential consequences of an action.      -->
 
 ---
 
