@@ -76,7 +76,9 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
       <img src="https://github.com/user-attachments/assets/208ded03-8c5f-4340-9c20-5bc6d897f3ec" height="60rem" title="Pandas">
   
       <img src="https://github.com/user-attachments/assets/9b28c75c-5095-47be-90cc-8d7a33e22266" height="60rem" title="Statsmodels">
-          
+ 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="60" title="Matplotlib">
+
       <img src="https://github.com/user-attachments/assets/bcde3597-6195-4ef6-b771-ecf80eae08c2" height="60rem" title="BERT">
   
       <img src="https://github.com/user-attachments/assets/bb1c336b-99e4-49a2-ab88-9638cf1aaf35" height="60rem" title="RASA">
@@ -151,6 +153,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
       <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
    
       <img src="https://github.com/user-attachments/assets/967d7fdd-332a-47ff-96d2-74fc5a9cd4c2" height="60rem" title="Amazon-Web-Services">
+ 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="60" title="Postman">
    
       <img src="https://github.com/user-attachments/assets/31bf9beb-78bc-4382-94c8-8eb8af16d8ed" height="60rem" title="Rivet">
 
