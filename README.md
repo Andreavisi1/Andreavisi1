@@ -79,6 +79,10 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
  
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="60" title="Matplotlib">
 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60" title="NumPy">
+      
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" height="60" title="npm">
+
       <img src="https://github.com/user-attachments/assets/bcde3597-6195-4ef6-b771-ecf80eae08c2" height="60rem" title="BERT">
   
       <img src="https://github.com/user-attachments/assets/bb1c336b-99e4-49a2-ab88-9638cf1aaf35" height="60rem" title="RASA">
