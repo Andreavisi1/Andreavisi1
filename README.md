@@ -87,14 +87,14 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **Data A
   - **Machine Learning & Deep Learning**:
    
       <img src="https://github.com/user-attachments/assets/1b97e29f-618d-499d-91f5-3aa9cc8607fc" height="60rem" title="YOLO">
+
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="60rem" title="OpenCV">
    
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" height="60rem" title="TensorFlow"> 
   
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="60rem" title="PyTorch">
    
       <img src="https://github.com/user-attachments/assets/d2a74c09-d023-45bd-8a41-a01dc4d75400" height="60rem" title="Keras">
-
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="60rem" title="OpenCV">
   
       <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60rem" title="Hadoop">
   
