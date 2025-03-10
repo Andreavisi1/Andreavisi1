@@ -43,8 +43,6 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
    <img src="https://github.com/user-attachments/assets/6c166503-ffce-4033-9e18-9b7120e01f64" height="60rem" title="JavaScript">
 
    <img src="https://github.com/user-attachments/assets/35d586ad-be80-44b3-b8dc-b86d4e21b0d5" height="60rem" title="HTML">
-
-   <img src="https://github.com/user-attachments/assets/b79ba726-e395-44fc-93b8-bc1a97d90745" height="60rem" title="MySQL">
    
    <img src="https://github.com/user-attachments/assets/2f6ce3a5-f08e-4fc6-923b-623f3407de07" height="60rem" title="AMPL">
   
@@ -56,11 +54,22 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
   
    <img src="https://github.com/user-attachments/assets/3e068d06-61cf-4e64-b632-559b4a1dab6f" height="60rem" title="C++"> 
 
+- **Databases**:
+
+   <img src="https://github.com/user-attachments/assets/b79ba726-e395-44fc-93b8-bc1a97d90745" height="60rem" title="MySQL">
+
+   <img src="https://github.com/user-attachments/assets/c5f9069c-ff72-46d2-8c5f-1d30364fd955" height="60rem" title="SQLite">
+
+   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
+   
+   <img src="https://github.com/user-attachments/assets/e855e3ae-c733-4948-8a50-e93ad988e011" height="60rem" title="Firestore">
+        
+   <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
 
 
 - **Frameworks, platforms, libraries**:
   
-  - **Business Intelligence**:
+  - **Business Intelligence & Analytics**:
    
       <img src="https://github.com/user-attachments/assets/1b16f035-15c3-4e6c-bf46-90ebff1c07e1" height="60rem" title="Qlik">    
   
@@ -145,12 +154,6 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
       <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="50rem" title="Microsoft Project">
    
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="60rem" title="Git">
-   
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
-   
-      <img src="https://github.com/user-attachments/assets/e855e3ae-c733-4948-8a50-e93ad988e011" height="60rem" title="Firestore">
-        
-      <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
       
       <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
    
