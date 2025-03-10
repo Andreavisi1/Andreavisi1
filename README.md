@@ -148,8 +148,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
       <img src="https://github.com/user-attachments/assets/07a338de-3914-466d-8c5b-c31dec67027d" height="60rem" title="Ultimaker Cura">
   
       <img src="https://github.com/user-attachments/assets/35969cf1-303e-4f54-8f9d-84fb8c5ead55" height="60rem" title="Autodesk Fusion 360">
-  
-  - **Others**:
+
+- **Sotware Tools & Cloud**:
   
       <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="50rem" title="Microsoft Project">
    
