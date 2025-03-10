@@ -149,19 +149,20 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
   
       <img src="https://github.com/user-attachments/assets/35969cf1-303e-4f54-8f9d-84fb8c5ead55" height="60rem" title="Autodesk Fusion 360">
 
+
 - **Sotware Tools & Cloud**:
   
-      <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="50rem" title="Microsoft Project">
+  <img src="https://github.com/user-attachments/assets/7aadb825-0dce-4321-9b7e-0f46301eb860" height="50rem" title="Microsoft Project">
    
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="60rem" title="Git">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" height="60rem" title="Git">
       
-      <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
+  <img src="https://github.com/user-attachments/assets/452eb402-92f2-4e11-bad1-35287f0bf0c5" height="60rem" title="Docker">
    
-      <img src="https://github.com/user-attachments/assets/967d7fdd-332a-47ff-96d2-74fc5a9cd4c2" height="60rem" title="Amazon-Web-Services">
+  <img src="https://github.com/user-attachments/assets/967d7fdd-332a-47ff-96d2-74fc5a9cd4c2" height="60rem" title="Amazon-Web-Services">
  
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="60" title="Postman">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="60" title="Postman">
    
-      <img src="https://github.com/user-attachments/assets/31bf9beb-78bc-4382-94c8-8eb8af16d8ed" height="60rem" title="Rivet">
+  <img src="https://github.com/user-attachments/assets/31bf9beb-78bc-4382-94c8-8eb8af16d8ed" height="60rem" title="Rivet">
 
 ---
 
