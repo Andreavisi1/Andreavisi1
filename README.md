@@ -128,7 +128,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
    
       <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
 
-      <img src="https://github.com/user-attachments/assets/eb3536df-9098-48ce-bfa4-606cd07db17b" height="60rem" title="SPIN Model Checker">
+      <img src="https://github.com/user-attachments/assets/eb3536df-9098-48ce-bfa4-606cd07db17b" height="30rem" title="SPIN Model Checker">
   
       
   - **Mobile application development and governance**:
