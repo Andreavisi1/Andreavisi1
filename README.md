@@ -68,11 +68,11 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
         
    <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
 
-   <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F331488%2Fmongodb&psig=AOvVaw3NnRtxmIoysg7hfUVgt4a4&ust=1746540101281000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj3iYW_jI0DFQAAAAAdAAAAABAE" height="60rem" title="MongoDB">
+   <img src="https://www.svgrepo.com/show/331488/mongodb.svg" height="60rem" title="MongoDB">
 
-   <img src="https://github.com/user-attachments/assets/e855e3ae-c733-4948-8a50-e93ad988e011" height="60rem" title="Redis">
+   <img src="https://static.cdnlogo.com/logos/r/3/redis.svg" height="60rem" title="Redis">
    
-   <img src="https://github.com/user-attachments/assets/e855e3ae-c733-4948-8a50-e93ad988e011" height="60rem" title="Cassandra">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache-cassandra-icon.png" height="60rem" title="Cassandra">
 
 
 - **Frameworks, platforms, libraries**:
