@@ -130,7 +130,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
 
       <img src="https://github.com/user-attachments/assets/eb3536df-9098-48ce-bfa4-606cd07db17b" height="60rem" title="">
 
-      <img src="https://github.com/user-attachments/assets/eb3536df-9098-48ce-bfa4-606cd07db17b" height="60rem" title="SPIN Model Checker">
+      <img src="https://github.com/user-attachments/assets/eb3536df-9098-48ce-bfa4-606cd07db17b" height="60rem" width ="60rem" title="SPIN Model Checker">
   
       
   - **Mobile application development and governance**:
