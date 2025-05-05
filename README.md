@@ -24,7 +24,9 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
 
 ### Programming Skills 
 
-- **Programming Languages**: 
+- **Programming Languages**:
+
+   <img src="https://github.com/user-attachments/assets/7fca9e9d-ecad-4d7e-b50f-c383563e6982" height="60rem" title="Promela">
 
    <img src="https://github.com/user-attachments/assets/ca05a313-d541-4eb4-86f8-671f866efad7" height="60rem" title="Solidity">
      
@@ -125,6 +127,8 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
       <img src="https://github.com/user-attachments/assets/af2369dd-b6e4-4d36-8600-e878db8326a2" height="60rem" title="Ganache">
    
       <img src="https://github.com/user-attachments/assets/6796e092-e53c-4a93-ac06-45521689ca4c" height="60rem" title="Prism Model Checker">
+
+      <img src="https://github.com/user-attachments/assets/eb3536df-9098-48ce-bfa4-606cd07db17b" height="60rem" title="SPIN Model Checker">
   
       
   - **Mobile application development and governance**:
