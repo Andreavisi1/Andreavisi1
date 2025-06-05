@@ -207,17 +207,6 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Andreavisi1&show_icons=true&theme=radical/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreavisi1&layout=compact&theme=radical" />
-    </td>
-  </tr>
-</table>
-
-<table align="center">
-  <tr>
-    <td>
       <img src="https://github-readme-stats.vercel.app/api?username=Andreavisi1&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" height="180" />
     </td>
     <td>
