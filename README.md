@@ -204,9 +204,16 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
 
 ## 📈 GitHub Stats  
 
-![Simone's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andreavisi1&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreavisi1&layout=compact&theme=radical)
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Andreavisi1&show_icons=true&theme=radical/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreavisi1&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
