@@ -112,7 +112,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
       
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="60" title="TensorFlow">
       
-      <img src="https://github.com/user-attachments/assets/0ebb6d5f-bb7a-4cbd-9598-a3d1dfdebca5" height="70" title="PyTorch">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="60rem" title="PyTorch">
       
       <img src="https://github.com/user-attachments/assets/d2a74c09-d023-45bd-8a41-a01dc4d75400" height="60" title="Keras">
       
@@ -169,7 +169,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
    
   <img src="https://github.com/user-attachments/assets/967d7fdd-332a-47ff-96d2-74fc5a9cd4c2" height="60rem" title="Amazon-Web-Services">
  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="60" title="Postman">
+  <img src="https://github.com/user-attachments/assets/c8a2cd10-33c9-4074-bf84-974433d7fd2d" height="60" title="Postman">
    
   <img src="https://github.com/user-attachments/assets/31bf9beb-78bc-4382-94c8-8eb8af16d8ed" height="60rem" title="Rivet">
 
