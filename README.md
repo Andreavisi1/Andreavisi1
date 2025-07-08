@@ -106,21 +106,14 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
   
   - **Machine Learning & Deep Learning**:
    
-      <img src="https://github.com/user-attachments/assets/1b97e29f-618d-499d-91f5-3aa9cc8607fc" height="60rem" title="YOLO">
-
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" height="60rem" title="OpenCV">
-   
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" height="60rem" title="TensorFlow"> 
-  
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" height="60rem" title="PyTorch">
-   
-      <img src="https://github.com/user-attachments/assets/d2a74c09-d023-45bd-8a41-a01dc4d75400" height="60rem" title="Keras">
-  
-      <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60rem" title="Hadoop">
-  
-      <img src="https://github.com/user-attachments/assets/6d1c7c94-f3cb-4d37-ada1-49471279ce82" height="60rem" title="Spark">
-  
-      <img src="https://github.com/user-attachments/assets/677e12a5-26e5-435f-b4f6-ae78a02c6a18" height="60rem" title="RapidMiner">
+      <img src="https://github.com/user-attachments/assets/1b97e29f-618d-499d-91f5-3aa9cc8607fc" height="60" title="YOLO">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="60" title="OpenCV">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="60" title="TensorFlow">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" height="60" title="PyTorch">
+      <img src="https://github.com/user-attachments/assets/d2a74c09-d023-45bd-8a41-a01dc4d75400" height="60" title="Keras">
+      <img src="https://github.com/user-attachments/assets/478bbcb3-4278-4e32-8536-5a31c4beaad5" height="60" title="Hadoop">
+      <img src="https://github.com/user-attachments/assets/6d1c7c94-f3cb-4d37-ada1-49471279ce82" height="60" title="Spark">
+      <img src="https://github.com/user-attachments/assets/677e12a5-26e5-435f-b4f6-ae78a02c6a18" height="60" title="RapidMiner">
   
   
   - **Blockchain & Model checking**:
