@@ -96,7 +96,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
       
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60" title="Matplotlib">
       
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="60" title="NumPy">
+      <img src="https://github.com/user-attachments/assets/2fd5535a-ff82-4831-803e-2a65da77498f" height="60" title="NumPy">
       
       <img src="https://github.com/user-attachments/assets/bcde3597-6195-4ef6-b771-ecf80eae08c2" height="60" title="BERT">
       
