@@ -96,7 +96,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
       
       <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="60" title="Matplotlib">
       
-      <img src="https://github.com/user-attachments/assets/2fd5535a-ff82-4831-803e-2a65da77498f" height="80" title="NumPy">
+      <img src="https://github.com/user-attachments/assets/2fd5535a-ff82-4831-803e-2a65da77498f" height="70" title="NumPy">
       
       <img src="https://github.com/user-attachments/assets/bcde3597-6195-4ef6-b771-ecf80eae08c2" height="60" title="BERT">
       
@@ -112,7 +112,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
       
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="60" title="TensorFlow">
       
-      <img src="https://github.com/user-attachments/assets/0ebb6d5f-bb7a-4cbd-9598-a3d1dfdebca5" height="60" title="PyTorch">
+      <img src="https://github.com/user-attachments/assets/0ebb6d5f-bb7a-4cbd-9598-a3d1dfdebca5" height="70" title="PyTorch">
       
       <img src="https://github.com/user-attachments/assets/d2a74c09-d023-45bd-8a41-a01dc4d75400" height="60" title="Keras">
       
