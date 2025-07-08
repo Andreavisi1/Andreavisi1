@@ -94,7 +94,7 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
   
       <img src="https://github.com/user-attachments/assets/9b28c75c-5095-47be-90cc-8d7a33e22266" height="60rem" title="Statsmodels">
  
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="60" title="Matplotlib">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="60rem" title="Matplotlib">
 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60" title="NumPy">
       
