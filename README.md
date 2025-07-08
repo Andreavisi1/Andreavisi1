@@ -87,15 +87,23 @@ I have a strong passion for **Data Science**, **Machine Learning**, and **(Big) 
   
   
   - **Data Science & Data Processing**:
+  
+      <img src="https://github.com/user-attachments/assets/6e8372f8-c47d-4d11-92ad-e01f9e3769fa" height="60rem" title="Scikit Learn">    
+  
+      <img src="https://github.com/user-attachments/assets/208ded03-8c5f-4340-9c20-5bc6d897f3ec" height="60rem" title="Pandas">
+  
+      <img src="https://github.com/user-attachments/assets/9b28c75c-5095-47be-90cc-8d7a33e22266" height="60rem" title="Statsmodels">
+ 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="60rem" title="Matplotlib">
 
-<img src="https://github.com/user-attachments/assets/6e8372f8-c47d-4d11-92ad-e01f9e3769fa" height="60" title="Scikit Learn">
-<img src="https://github.com/user-attachments/assets/208ded03-8c5f-4340-9c20-5bc6d897f3ec" height="60" title="Pandas">
-<img src="https://github.com/user-attachments/assets/9b28c75c-5095-47be-90cc-8d7a33e22266" height="60" title="Statsmodels">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" height="60" title="Matplotlib">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60" title="NumPy">
-<img src="https://github.com/user-attachments/assets/bcde3597-6195-4ef6-b771-ecf80eae08c2" height="60" title="BERT">
-<img src="https://github.com/user-attachments/assets/bb1c336b-99e4-49a2-ab88-9638cf1aaf35" height="60" title="RASA">
-<img src="https://github.com/user-attachments/assets/b7425111-63b7-44e9-a083-26f5d489c881" height="60" title="NetworkX">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" title="NumPy">
+
+      <img src="https://github.com/user-attachments/assets/bcde3597-6195-4ef6-b771-ecf80eae08c2" height="60rem" title="BERT">
+  
+      <img src="https://github.com/user-attachments/assets/bb1c336b-99e4-49a2-ab88-9638cf1aaf35" height="60rem" title="RASA">
+  
+      <img src="https://github.com/user-attachments/assets/b7425111-63b7-44e9-a083-26f5d489c881" height="60rem" title="NetworkX">
+  
   
   - **Machine Learning & Deep Learning**:
    
